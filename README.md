@@ -309,3 +309,11 @@ My contributions to BorderSight AI included:
 BorderSight AI is the result of our team's collective effort, collaboration, and shared commitment to building an AI-assisted surveillance solution. Each member's contribution helped shape the project and bring its different components together.
 
 **Developed collaboratively by all six team members.**
+
+## 📜 License
+
+BorderSight AI is a collaborative project developed by six team members. All rights are reserved by the respective project contributors.
+
+Unauthorized redistribution, commercial use, or claiming the project as your own is prohibited. External contributions must be submitted through Pull Requests (PRs), and any permitted use or derivative work must provide clear credit to the original project and its contributors.
+
+See the [LICENSE](./LICENSE) file for complete terms and conditions.
