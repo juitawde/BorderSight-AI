@@ -277,3 +277,35 @@ It includes:
                  │  Analytics  │
                  └─────────────┘
 
+text
+```
+
+## 👥 Team Contributions
+
+BorderSight AI was developed collaboratively by a team of six members as part of the Internal SIH Hackathon 2026. Every team member contributed to the project's development, bringing together research, dataset exploration, UI development, AI-based detection, and other implementation efforts.
+
+### 🤝 Project Team
+
+| Team Member | GitHub Profile |
+|---|---|
+| Shankara | [@shankara11y](https://github.com/shankara11y) |
+| Krashmeet | [@krashmeet033-sys](https://github.com/krashmeet033-sys) |
+| Bhuvisha | [@bhuvishag07](https://github.com/bhuvishag07) |
+| Ashutosh | [@ashutosh062008](https://github.com/ashutosh062008) |
+| Yash | [@Yashhh710](https://github.com/Yashhh710) |
+| Jui Tawde | [@juitawde](https://github.com/juitawde) |
+
+### 🧑‍💻 My Contribution — Jui Tawde
+
+My contributions to BorderSight AI included:
+
+- **Research & Analysis:** Explored relevant technologies, approaches, and research related to AI-powered border surveillance.
+- **Dataset Research:** Contributed to identifying and exploring datasets relevant to object detection and computer vision.
+- **UI Development:** Worked on selected UI components and pages to improve usability, consistency, and visual presentation.
+- **Collaboration:** Coordinated with the team and contributed to the overall development and refinement of the platform.
+
+### 🌟 Acknowledgement
+
+BorderSight AI is the result of our team's collective effort, collaboration, and shared commitment to building an AI-assisted surveillance solution. Each member's contribution helped shape the project and bring its different components together.
+
+**Developed collaboratively by all six team members.**
